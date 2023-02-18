@@ -2,8 +2,9 @@
 #include <time.h>
 #include <stdio.h>
 /**
- * main - should determine if the output is positive, negative or zero
- * always return = 0
+ * main - Entry point
+ *
+ * Return: Always 0 (success)
  *
  */
 int main(void)
